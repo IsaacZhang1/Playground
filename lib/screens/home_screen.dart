@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:freshcut_app/widgets/check_back_section.dart';
-import 'package:freshcut_app/widgets/header_text.dart';
+import 'package:freshcut_app/assets/sections/check_back_section.dart';
+import 'package:freshcut_app/assets/sections/header_text.dart';
 import 'package:freshcut_app/widgets/vertical_padding.dart';
-import 'package:freshcut_app/widgets/video_category_banner.dart';
+import 'package:freshcut_app/assets/sections/video_category_banner.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
